@@ -1,0 +1,16 @@
+body,h1,h2,h3,h4,h5,h6,.dropdown-menu{
+	font-family: 'Cairo', sans-serif;
+}
+select.form-control{
+	padding-top:1px;
+}
+.table>tbody>tr>td, .table>tbody>tr>th, .table>tfoot>tr>td, .table>tfoot>tr>th, .table>thead>tr>td, .table>thead>tr>th{
+	    word-wrap: break-word;
+    word-break: break-all;
+}
+.bootstrap-timepicker-widget table{
+	direction:ltr !important;
+}
+.checkbox-list>label.checkbox-inline:first-child, .checkbox>label, .form-horizontal .checkbox>label, .portlet.light .form .form-actions.left, .portlet.light .portlet-form .form-actions.left, .radio-list>label.radio-inline:first-child{
+    padding-right: 20px !important;
+}
